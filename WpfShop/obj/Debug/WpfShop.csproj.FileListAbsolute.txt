@@ -1,0 +1,150 @@
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Styles\UIColors.baml
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\MainWindow.g.cs
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\App.g.cs
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\WpfShop_MarkupCompile.cache
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\WpfShop_MarkupCompile.lref
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\bin\Debug\WpfShop.exe.config
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\bin\Debug\WpfShop.exe
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\bin\Debug\WpfShop.pdb
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\bin\Debug\FontAwesome.Sharp.dll
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Styles\ButtonStyles.baml
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\App.baml
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\MainWindow.baml
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\WpfShop.g.resources
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\WpfShop.Properties.Resources.resources
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.GenerateResource.Cache
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\WpfShop.exe
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\WpfShop.pdb
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Views\CategoryView.g.cs
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Views\HomeView.g.cs
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Views\OrderView.g.cs
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Views\ProductView.g.cs
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Views\UserView.g.cs
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Views\CategoryView.baml
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Views\HomeView.baml
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Views\OrderView.baml
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Views\ProductView.baml
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\Views\UserView.baml
+c:\users\tranthanhbinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TranThanhBinh\documents\visual studio 2015\Projects\WpfShop\WpfShop\obj\Debug\WpfShop.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Styles\UIColors.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Login\LoginView.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Product\CreateProductView.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Product\EditProductView.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Product\ProductView.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\User\CreateUserView.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\User\EditUserView.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\User\UserView.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\App.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop_MarkupCompile.cache
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop_MarkupCompile.lref
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\WpfShop.exe.config
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\WpfShop.exe
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\WpfShop.pdb
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\Castle.Core.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\Mindbox.Data.Linq.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\Mindbox.Expressions.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\System.Security.Permissions.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\Castle.Core.xml
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\System.Security.Permissions.xml
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Order\CreateOrderView.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Order\EditOrderView.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Order\OrderView.g.cs
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\App.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\MainWindow.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Login\LoginView.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Order\CreateOrderView.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Order\EditOrderView.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Order\OrderView.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Product\CreateProductView.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Product\EditProductView.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\Product\ProductView.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\User\CreateUserView.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\User\EditUserView.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Views\User\UserView.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop.g.resources
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop.Properties.Resources.resources
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.CopyComplete
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop.exe
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\WpfShop.pdb
+C:\Users\PC\Downloads\WpfShop\WpfShop\obj\Debug\Resources\MainResource.baml
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\PC\Downloads\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\WpfShop.exe.config
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\WpfShop.exe
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\WpfShop.pdb
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\Castle.Core.dll
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\Mindbox.Expressions.dll
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\Castle.Core.xml
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Documents\WpfShop\WpfShop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Resources\MainResource.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Styles\UIColors.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Order\CreateOrderView.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Order\EditOrderView.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Order\OrderView.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Product\CreateProductView.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Product\EditProductView.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Product\ProductView.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\User\CreateUserView.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\User\EditUserView.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\User\UserView.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop_MarkupCompile.cache
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop_MarkupCompile.lref
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\App.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Order\CreateOrderView.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Order\EditOrderView.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Order\OrderView.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Product\CreateProductView.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Product\EditProductView.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\Product\ProductView.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\User\CreateUserView.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\User\EditUserView.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\Views\User\UserView.baml
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop.g.resources
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop.Properties.Resources.resources
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop.csproj.CopyComplete
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop.exe
+C:\Users\Admin\Documents\WpfShop\WpfShop\obj\Debug\WpfShop.pdb

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WpfShop",
+    "\\WpfShop\\ViewModels",
+    "\\WpfShop\\ViewModels\\User",
+    "\\WpfShop\\Views",
+    "\\WpfShop\\Views\\User"
+  ],
+  "SelectedNode": "\\WpfShop\\Views\\User\\EditUserView.xaml",
+  "PreviewInSolutionExplorer": false
+}
